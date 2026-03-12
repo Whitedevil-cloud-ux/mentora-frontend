@@ -24,3 +24,9 @@ Deployment: Vercel + Render
 
 ### AI Summarizer
 ![AI](./screenshots/ai-summary.png)
+
+### Lessons
+![Dashboard](./screenshots/lessons.png)
+
+### Sessions
+![AI](./screenshots/sessions.png)

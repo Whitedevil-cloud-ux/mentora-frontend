@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-    baseURL: "http://localhost:5000",
+    baseURL: "https://mentora-backend-5q7w.onrender.com",
 });
 api.interceptors.request.use((config) => {
     const token = localStorage.getItem("token");
